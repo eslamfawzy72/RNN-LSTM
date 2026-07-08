@@ -1,0 +1,40 @@
+       Install requiremenets
+               │
+               ▼
+            Dataset
+               │
+               ▼
+      Data Exploration
+               │
+               ▼
+        Data Cleaning
+               │
+               ▼
+      Text Preprocessing
+               │
+               ▼
+ Tokenization & Vocabulary
+               │
+               ▼
+ Convert Words → Integers
+               │
+               ▼
+ Padding Sequences
+               │
+               ▼
+ Train / Test Split
+               │
+               ▼
+        Build RNN Model
+               │
+               ▼
+        Train the Model
+               │
+               ▼
+      Evaluate (F1 Score)
+               │
+               ▼
+ Confusion Matrix + Graphs
+               │
+               ▼
+      Save Model + PDF
